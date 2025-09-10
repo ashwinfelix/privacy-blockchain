@@ -4,13 +4,13 @@ A demo project showcasing blockchain transactions, homomorphic encryption (Paill
 
 Features
 
-📦 MERN stack: Express backend, React frontend
+ MERN stack: Express backend, React frontend
 
-⛓ Blockchain integration: Smart contract deployed on Hardhat local blockchain
+ Blockchain integration: Smart contract deployed on Hardhat local blockchain
 
-🔐 Paillier homomorphic encryption: Encrypts data before storing on-chain
+ Paillier homomorphic encryption: Encrypts data before storing on-chain
 
-🖼 Blockchain visualizer: Displays recent blocks and transactions like a chain
+ Blockchain visualizer: Displays recent blocks and transactions like a chain
 
 Setup Instructions
 
